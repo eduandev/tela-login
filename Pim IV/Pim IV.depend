@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1632870365 source:c:\projetos\tela-login\pim iv\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+
